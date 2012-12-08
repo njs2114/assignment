@@ -1,0 +1,12 @@
+    Why is this assignment relevent to an Intro to Unix course?
+
+This is a fairly simple assignment that can be used to familiarize students with argument handling and file manipulation in Python or C++.
+
+    How should points be distributed for this assignment, i.e. what percentage should go to syntax, style, functionality, content, etc. If the solution fails to work at all (fails to compile, or fails to run) how should it be evaluated?
+
+argument handling: 60%
+    15% for each command (add/remove/display/display all)
+file manipulation: 30%
+    15% for each command (add/remove)
+duplicate name handling: 10%
+    5% if it just overwrites the entry
